@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "_mingw_off_t.h": "c",
+        "strings.h": "c",
+        "typeinfo": "c"
+    }
+}
